@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eworlder.iml" filepath="$PROJECT_DIR$/eworlder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ez-center/ez-center.iml" filepath="$PROJECT_DIR$/ez-center/ez-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ez-common/ez-common.iml" filepath="$PROJECT_DIR$/ez-common/ez-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ez-gate/ez-gate.iml" filepath="$PROJECT_DIR$/ez-gate/ez-gate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ez-model/ez-model.iml" filepath="$PROJECT_DIR$/ez-model/ez-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eworlder/ez-model-2/ez-model-2.iml" filepath="$PROJECT_DIR$/../eworlder/ez-model-2/ez-model-2.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ez-center" />
+        <module name="ez-common" />
+        <module name="ez-gate" />
+        <module name="ez-model" />
+        <module name="ez-model-2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eworlder" target="1.8" />
+      <module name="ez-center" target="1.8" />
+      <module name="ez-common" target="1.8" />
+      <module name="ez-gate" target="1.8" />
+      <module name="ez-model" target="1.8" />
+      <module name="ez-model-2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
